@@ -1,7 +1,7 @@
 NAME = tic-tac-toe
 
 SRCS = main.c \
-	tic-tac-toe.c
+       tic-tac-toe.c
 
 all: $(NAME)
 
