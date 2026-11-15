@@ -1,4 +1,4 @@
-aide du prof pour creer mes valeurs vides dans mon tableau.
+--aide du prof pour creer mes valeurs vides dans mon tableau.
 
 
 --utilisation de l'IA (Gemini) pour avoir un plan de code étape par étape :
